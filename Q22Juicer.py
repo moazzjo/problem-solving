@@ -21,7 +21,7 @@ lim_exeeding_to_empty = n[2]
 
 orangies = [int(x) for x in input().split()]
 
-total_size_of_all_oringies = 0
+total_size = 0
 count_of_empty = 0
 
 for orange in orangies:
